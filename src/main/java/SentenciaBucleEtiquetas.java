@@ -13,6 +13,7 @@ public class SentenciaBucleEtiquetas {
             cantidad++;
         }
         System.out.println("cantidad = " + cantidad);
+        String nuevo = " ";
     }
 
 
