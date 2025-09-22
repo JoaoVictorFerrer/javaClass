@@ -7,6 +7,7 @@ public class PrimitivosFloat {
         double realDouble = 3.4E48;
         System.out.println("realDouble = " + realDouble);
         System.out.println("valor maximo de double " + Double.MAX_VALUE);
+        System.out.println("valor maximo de Float " + Float.MAX_VALUE);
 
         var varFlotante = 3.1456;
         System.out.println("varFlotante = " + varFlotante);
